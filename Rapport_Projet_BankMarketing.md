@@ -1,6 +1,6 @@
 # Rapport d'Analyse Prédictive : Optimisation des Campagnes de Dépôts à Terme
 ## ikram azizi cac1
-<img src="th (3).jpg" style="height:250px;margin-right:432px"/>
+<img src="photo de ikram.jpeg" style="height:250px;margin-right:432px"/>
 ## Contexte Métier & Problématique
 
 Le secteur bancaire est caractérisé par une forte concurrence et des coûts d'acquisition client significatifs. Les campagnes de marketing direct, bien que potentiellement efficaces, peuvent s'avérer coûteuses et peu rentables si elles ne sont pas ciblées. L'objectif principal de ce projet est d'optimiser les campagnes de marketing direct pour la souscription à des dépôts à terme.
